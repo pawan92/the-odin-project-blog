@@ -8,7 +8,7 @@ This project was first proposed by Pawan on The Odin Project's (TOP) [Github Iss
 
 ###Contributors
 
-Contributors to this specific project *If you have contributed and have not been accreddited please contact me at jspiewak705@gmail.com with "TOP Blog Accredidation" as the email subject. Please include a link to your Github and/or PR, name, and a short summary of all contributions to this TOP project.*
+Contributors to this specific project **If you have contributed and have not been accreddited please contact me at jspiewak705@gmail.com with "TOP Blog Accredidation" as the email subject. Please include a link to your Github and/or PR, name, and a short summary of all contributions to this TOP project.**
 
 * Jarod (Memj) - Front-end Development | [Github](https://github.com/memj)
 * Pawan (Pawan92) - Front-end Development | [Github](https://github.com/pawan92)
