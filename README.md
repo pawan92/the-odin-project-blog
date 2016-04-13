@@ -1,7 +1,3 @@
-# The Odin Project
-
-This is the repo for the blog page on TheOdinProject.com
-
 ##This project
 
 This project is a duel effort of [Jarod (Memj)](https://github.com/memj) and [Pawan](https://github.com/pawan92) with the goal of creating an internal blog for The Odin Project.
